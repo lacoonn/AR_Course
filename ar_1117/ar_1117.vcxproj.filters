@@ -15,27 +15,8 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="stdafx.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-    <ClInclude Include="targetver.h">
-      <Filter>헤더 파일</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="stdafx.cpp">
+    <ClCompile Include="ar_1117.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="ar_1027.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <Image Include="..\..\..\marker2.png">
-      <Filter>리소스 파일</Filter>
-    </Image>
-    <Image Include="..\..\..\marker1.png">
-      <Filter>리소스 파일</Filter>
-    </Image>
   </ItemGroup>
 </Project>
